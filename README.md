@@ -1,6 +1,6 @@
 # Shawandpartners Backend
 
-A backend server made for a job application to Shaw and Partners.
+A backend server made for a job application at Shaw and Partners.
 
 ## Requirements
 
